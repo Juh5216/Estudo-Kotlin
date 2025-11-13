@@ -1,2 +1,2 @@
 Entrada e saída de dados
-- Saudações simples 
+- Saudações simples - Exibição de mensagem e leitura de dado
