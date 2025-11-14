@@ -4,3 +4,7 @@ Entrada e saída de dados
 - Informações pessoais - Leitura de dados, exibição de informações e consumo de enter
 - Conversão de temperatura - leitura de dados, operações matemáticas, exibição do resultado
 - Entrada de múltiplos valoes - Leitura e exibição de dados
+
+Tipos de dados
+- Tipo inteiro - Int
+
