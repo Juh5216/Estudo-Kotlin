@@ -1,3 +1,5 @@
+// Leia um número decimal digitado pelo usuário e calcule a metade dele
+
 import java.util.Scanner;
 fun main() {
     var num:Double;
