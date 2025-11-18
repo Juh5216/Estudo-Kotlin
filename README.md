@@ -6,5 +6,12 @@ Entrada e saída de dados
 - Entrada de múltiplos valoes - Leitura e exibição de dados
 
 Tipos de dados
-- Tipo inteiro - Int
+- Int
+- Double
+- Boolena
+- Char
+- Stribg
+- Long
+- Short
+- Byte
 
