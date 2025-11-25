@@ -15,3 +15,15 @@ Tipos de dados
 - Short
 - Byte
 
+Operadores
+- Conta matemática simples - Aritiméticos
+- Soma e subtração de números - Incremento e decremento
+- Cálculo da média - Aritiméticos
+- Atribuição
+- Comparação simples - De comparação
+- Comparação com limites - De comparação
+- Verificação de idade e autorização - Lógicos
+- Verificação de login - Lógicos
+- Negação - Lógicos 
+- Cáculadora simples - Comparação e aritméticos
+
