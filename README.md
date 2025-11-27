@@ -27,3 +27,6 @@ Operadores
 - Negação - Lógicos 
 - Cáculadora simples - Comparação e aritméticos
 
+Estruturas decisão
+- If/Else
+- When
