@@ -1,3 +1,16 @@
+/*  Mostre o seguinte menu:
+
+1 - Cadastrar usuário
+2 - Editar cadastro
+3 - Excluir conta
+4 - Sair do sistema
+
+Use when para indicar o que o usuário escolheu.
+Se escolher 4, mostre: "Encerrando o sistema..."
+
+Se digitar algo que não está no menu, mostre: "Opção inválida!"*/
+
+
 fun main () {
 
     print("Escolha uma opção! \n")
